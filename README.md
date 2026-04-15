@@ -9,9 +9,7 @@ Sistema completo de punto de venta (POS) en un solo archivo. Login, inventario, 
 
 ## ✨ Live Demo
 
-👉 **[Ver demo en vivo](https://abrahamramoskd.github.io/ventapro/service.html)**
-
-
+👉 **[Ver demo en vivo](https://abrahamramoskd.github.io/ventapro)**
 ## 🚀 Funcionalidades
 
 - 🔐 **Login con credenciales** — acceso protegido al sistema
